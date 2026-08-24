@@ -1,2 +1,3 @@
-# ExpenseFlow
-A Django REST API for an expense tracker that provides user authentication and allows users to securely manage their own expenses.
+**ExpenseFlow**
+
+A secure FinTech REST API for personal expense management, built with Django REST Framework. Features JWT authentication, relational ledger tracking, and strict per-user data isolation.
