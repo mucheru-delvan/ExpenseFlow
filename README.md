@@ -117,14 +117,6 @@ GET /api/expenses/?period=3months
 GET /api/expenses/?start_date=2026-08-01&end_date=2026-08-27
 ```
 
-## Testing
-
-Run the test suite with:
-
-```bash
-python manage.py test
-```
-
 ## Database
 
 ExpenseFlow uses MySQL, with each expense associated with an authenticated user. Users can only access and manage their own expenses.
