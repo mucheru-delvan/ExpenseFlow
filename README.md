@@ -1,7 +1,3 @@
-Because I gave you a **full documentation README**, when your project only needs a **short portfolio/repository README**.
-
-For your ExpenseFlow project, I'd keep it to this:
-
 ````markdown
 # ExpenseFlow
 
