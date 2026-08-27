@@ -1,6 +1,3 @@
-Absolutely. Keep the same structure and professionalism, but remove the detailed endpoint explanations and repetitive sections.
-
-````markdown
 # ExpenseFlow
 
 A RESTful Expense Tracker API built with Django REST Framework and MySQL. Users can authenticate with JWT and manage their personal expenses.
